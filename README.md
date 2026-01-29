@@ -27,4 +27,14 @@ Para a Análise, foram elaboradas 5 perguntas sobre  contexto de nascidos vivos:
 
 
 ## Base de dados
-Os dados estão armazenados em um arquivo csv, [clique aqui](https://drive.google.com/file/d/1D45N22DZhASAqiqugFuvwFYqprUMYLkS/view?usp=drive_link) para acessar o arquivo, disponível também nesse repostóro.
+Os dados brutos estão armazenados em um arquivo csv, [clique aqui](https://drive.google.com/file/d/1D45N22DZhASAqiqugFuvwFYqprUMYLkS/view?usp=drive_link) para acessar o arquivo, disponível também nesse repostóro.  
+
+## Limpeza do arquivo csv com python  
+
+**Bibliotecas**  
+>pandas: leitura, tratamento, padronização e criação de variáveis
+>re: limpeza e padronização de textos
+
+```python
+import pandas as pd
+import re
