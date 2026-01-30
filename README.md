@@ -8,29 +8,25 @@ A análise busca identificar tendências temporais, diferenças regionais e poss
 
 ## Perguntas de pesquisa
 
-Para a análise, foram elaboradas cinco perguntas relacionadas ao contexto de nascidos vivos no Brasil:
+Para a análise, foram elaboradas quatro perguntas relacionadas ao contexto de nascidos vivos no Brasil:  
 
-### 1º – O número de nascidos vivos nos municípios brasileiros aumentou, diminuiu ou permaneceu estável entre 2014 e 2023?
-> **Tendência ao longo do tempo**  
-> Análise da evolução temporal dos nascimentos no período estudado.
+### 1º – O número de nascidos vivos nos municípios brasileiros aumentou, diminuiu ou permaneceu estável entre 2014 e 2023?  
+> **Tendência ao longo do tempo**    
+> Análise da evolução temporal dos nascimentos no período estudado.  
 
-### 2º – Existe diferença na média de nascidos vivos entre as regiões do Brasil?
+### 2º – Existe diferença na média de nascidos vivos entre as regiões do Brasil?  
 > **Diferença entre as regiões**  
-> Comparação regional das médias de nascimentos.
+> Comparação regional das médias de nascimentos.  
 
-### 3º – Houve queda no número de nascidos vivos nos anos de 2020 e 2021?
-> **Impacto da pandemia da COVID-19**  
-> Avaliação de um evento externo sobre os dados demográficos.
+### 3º – Quais são os 10 municípios com as maiores e as menores médias de nascidos vivos?  
+> **Municípios com maiores e menores valores**    
+> Análise dos extremos da distribuição.  
 
-### 4º – Quais são os 10 municípios com as maiores e as menores médias de nascidos vivos?
-> **Municípios com maiores e menores valores**  
-> Análise dos extremos da distribuição.
+### 4º – Como evoluiu o número de nascidos vivos ao longo dos anos no estado do Rio de Janeiro?  
+> **Evolução em um estado específico**    
+> Estudo de caso.  
 
-### 5º – Como evoluiu o número de nascidos vivos ao longo dos anos no estado do Rio de Janeiro?
-> **Evolução em um estado específico**  
-> Estudo de caso.
-
----
+---  
 
 ## Base de dados
 
