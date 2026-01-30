@@ -174,3 +174,10 @@ df.to_csv(
 ```
 
 >O arquivo final é salvo com os dados prontos para análise em csv.
+
+<br>  
+
+## Análise do arquivo csv tratado.
+
+
+
